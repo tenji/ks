@@ -21,7 +21,7 @@
 ### 高可用（HA&MHA&HS）
   - 高可用性
   - 高可靠性
-  - 高扩展性
+  - 高扩展性
 ### 消息队列（Message Queue）
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
