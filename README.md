@@ -3,6 +3,7 @@
 ### RESTful
 ### JAVA语言
 ### JAVA虚拟机（JVM）
+### 安全与加密（Security & Encryption）
 ### Python语言
 ### 高并发（Multithreading）
 ### 数据库（DataBase）
@@ -23,5 +24,13 @@
   - 高可靠性
   - 高扩展性
 ### 消息队列（Message Queue）
+### 云计算（Cloud Computing）
+- 分层架构
+  - IaaS
+  - PaaS
+  - SaaS
+  - BDaaS
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
+
+# 浏览器书签
