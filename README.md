@@ -1,10 +1,23 @@
 # 知识结构体系
 ### 设计模式（Design Pattern）
+### Linux
+- Shell编程（Shell Programming）
+- Vim & Vi
 ### RESTful
 ### JAVA语言
+- JAVAEE
+  - 容器
+- 开发调试工具
+  - Eclipse
+  - IntelliJ IDEA
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
 ### Python语言
+### 版本控制（Version Control）
+- Git
+  - 分支管理
+  - 常用命令
+  - MarkDown
 ### 高并发（Multithreading）
 ### 数据库（DataBase）
   - SQL
