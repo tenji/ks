@@ -12,6 +12,9 @@
   - IntelliJ IDEA
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
+- 认证
+- 数据加密
+- 数据完整性
 ### Python语言
 ### 版本控制（Version Control）
 - Git
@@ -32,17 +35,36 @@
   - 工具（Tools）
 - 性能测试（Performance Tests）
   - 工具（Tools）
+### 网络通讯&网络编程（Network Programming）
+- 网络模型
+- 协议
+- IO
+### 分布式
+分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
+- 分布式缓存
+  - MemCache
+  - Redis
+- 分布式系统协调
+  - 分布式锁
+  - 选主
+  - ZooKeeper
+- 一致性
+- 分布式事务
 ### 高可用（HA&MHA&HS）
-  - 高可用性
-  - 高可靠性
-  - 高扩展性
+- 高可用性
+- 高可靠性
+- 高扩展性
+- 负载均衡
+  - Nginx
+  - HAProxy
 ### 消息队列（Message Queue）
 ### 云计算（Cloud Computing）
 - 分层架构
   - IaaS
   - PaaS
   - SaaS
-  - BDaaS
+  - BDaaS  
+    - 大数据组件
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
 
