@@ -18,13 +18,17 @@
 ### Python语言
 ### 版本控制（Version Control）
 - Git
-  - 分支管理
+  - [分支管理](https://github.com/tenji/ks/wiki/Git-Common-Commands)
   - 常用命令
   - MarkDown
+- SVN
+- CVS
 ### 高并发（Multithreading）
 ### 数据库（DataBase）
   - SQL
-  - NOSQL
+  - NOSQL  
+    - HBase
+    - MongoDB
   - ORM框架（Object-Relation-Mapping Framework）
   - 行存储vs列存储（Row vs Column Storage）
   - 数据库优化
@@ -64,7 +68,10 @@
   - PaaS
   - SaaS
   - BDaaS  
-    - 大数据组件
+    - 大数据组件  
+      - HDFS
+      - MapReduce
+      - Spark
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
 
