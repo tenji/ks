@@ -9,17 +9,22 @@
   - 容器
 - 开发调试工具
   - Eclipse
+    - 快捷键（Shortcuts）
+    - 调试
+    - 插件（Plugins）
   - IntelliJ IDEA
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
 - 认证
+  - Kerberos
 - 数据加密
 - 数据完整性
+- CAS
 ### Python语言
 ### 版本控制（Version Control）
 - Git
-  - [分支管理](https://github.com/tenji/ks/wiki/Git-Common-Commands)
-  - 常用命令
+  - [分支管理](https://github.com/tenji/ks/wiki/Git-Branching-Model)
+  - [常用命令](https://github.com/tenji/ks/wiki/Git-Common-Commands)
   - MarkDown
 - SVN
 - CVS
@@ -33,6 +38,7 @@
   - 行存储vs列存储（Row vs Column Storage）
   - 数据库优化
 ### 测试
+功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
 - 单元测试（Unit Tests）
 - 集成测试（Integration Tests）
 - 功能测试（Functional Tests）
@@ -41,8 +47,13 @@
   - 工具（Tools）
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
-- 协议
+- 协议（Protocols）
 - IO
+  - BIO
+  - NIO
+  - Netty
+  - Mina
+  - Grizzly
 ### 分布式
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
 - 分布式缓存
