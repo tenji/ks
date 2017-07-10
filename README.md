@@ -9,10 +9,13 @@
   - 容器
 - 开发调试工具
   - Eclipse
+    - 基本配置（Configuration）
     - 快捷键（Shortcuts）
     - 调试
     - 插件（Plugins）
   - IntelliJ IDEA
+  - Sublime Text
+    - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
 - 认证
