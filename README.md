@@ -19,8 +19,10 @@
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
 - 认证
-  - Kerberos
+  - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
 - 数据加密
+  - 对称加密
+  - 非对称加密
 - 数据完整性
 - CAS
 ### Python语言
@@ -28,7 +30,11 @@
 - Git
   - [分支管理](https://github.com/tenji/ks/wiki/Git-Branching-Model)
   - [常用命令](https://github.com/tenji/ks/wiki/Git-Common-Commands)
-  - MarkDown
+  - [MarkDown](https://github.com/tenji/ks/wiki/Markdown-Grammar)
+  - Tools
+    - [SourceTree](https://www.sourcetreeapp.com/)
+    - [Tower](https://www.git-tower.com/)
+    - [Github for Desktop](https://desktop.github.com/)
 - SVN
 - CVS
 ### 高并发（Multithreading）
@@ -42,12 +48,22 @@
   - 数据库优化
 ### 测试
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
-- 单元测试（Unit Tests）
-- 集成测试（Integration Tests）
+- LLT
+  - 单元测试（Unit Test, UT）
+  - 集成测试（Integration Test, IT）
+  - 模块系统测试（Module System Test, MST）
+  - 模块间集成测试（BBIT）
+- HLT
+  - 系统设计验证（System Design Verification, SDV）
+  - 系统集成测试（System Integration Test, SIT）
+  - 系统验收测试（System Verification Test, SVT）
 - 功能测试（Functional Tests）
-  - 工具（Tools）
+  - Tools
 - 性能测试（Performance Tests）
-  - 工具（Tools）
+  - Tools
+    - [JMeter](http://jmeter.apache.org/)
+    - [BurpSuit](https://portswigger.net/burp/)
+    - LoadRunner
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
 - 协议（Protocols）
