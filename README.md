@@ -57,6 +57,10 @@
   - 系统设计验证（System Design Verification, SDV）
   - 系统集成测试（System Integration Test, SIT）
   - 系统验收测试（System Verification Test, SVT）
+  - Tools
+    - 持续集成（Continuous Integration, CI）
+      - Jenkins
+    - 自动化执行工具
 - 功能测试（Functional Tests）
   - Tools
 - 性能测试（Performance Tests）
