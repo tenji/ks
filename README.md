@@ -4,10 +4,20 @@
 - Shell编程（Shell Programming）
 - Vim & Vi
 ### RESTful
+RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
+- 实现框架
+  - Spring MVC (JAVA)
+  - [Flask](http://flask.pocoo.org/) (Python)
+- RESTful API Design
+  - 规范
+  - 版本控制（Version Control）
+  - 批量操作（Batch Op）
 ### JAVA语言
 - JAVAEE
   - 容器
   - 框架
+    - Spring
+      - Spring MVC
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
@@ -87,6 +97,15 @@
   - 分布式锁
   - 选主
   - ZooKeeper
+    - 提供
+      - 文件系统
+      - 通知机制
+    - 能做
+      - 命名服务
+      - 配置管理
+      - 集群管理
+      - 分布式锁
+      - 队列管理
 - 一致性
 - 分布式事务
 ### 高可用（HA&MHA&HS）
