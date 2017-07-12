@@ -4,45 +4,128 @@
 - Shell编程（Shell Programming）
 - Vim & Vi
 ### RESTful
+RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
+- 实现框架
+  - Spring MVC (JAVA)
+  - [Flask](http://flask.pocoo.org/) (Python)
+- RESTful API Design
+  - 规范
+  - 版本控制（Version Control）
+  - 批量操作（Batch Op）
 ### JAVA语言
 - JAVAEE
-  - 容器
+  - 容器
+  - 框架
+    - Spring
+      - Spring MVC
 - 开发调试工具
   - Eclipse
+    - 基本配置（Configuration）
+    - 快捷键（Shortcuts）
+    - 调试
+    - 插件（Plugins）
   - IntelliJ IDEA
+  - Sublime Text
+    - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
 ### 安全与加密（Security & Encryption）
+- 认证
+  - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
+- 数据加密
+  - 对称加密
+  - 非对称加密
+- 数据完整性
+- CAS
 ### Python语言
 ### 版本控制（Version Control）
 - Git
-  - 分支管理
-  - 常用命令
-  - MarkDown
+  - [分支管理](https://github.com/tenji/ks/wiki/Git-Branching-Model)
+  - [常用命令](https://github.com/tenji/ks/wiki/Git-Common-Commands)
+  - [MarkDown](https://github.com/tenji/ks/wiki/Markdown-Grammar)
+  - Tools
+    - [SourceTree](https://www.sourcetreeapp.com/)
+    - [Tower](https://www.git-tower.com/)
+    - [Github for Desktop](https://desktop.github.com/)
+- SVN
+- CVS
 ### 高并发（Multithreading）
 ### 数据库（DataBase）
   - SQL
-  - NOSQL
+  - NOSQL  
+    - HBase
+    - MongoDB
   - ORM框架（Object-Relation-Mapping Framework）
   - 行存储vs列存储（Row vs Column Storage）
   - 数据库优化
 ### 测试
-- 单元测试（Unit Tests）
-- 集成测试（Integration Tests）
+功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
+- LLT
+  - 单元测试（Unit Test, UT）
+  - 集成测试（Integration Test, IT）
+  - 模块系统测试（Module System Test, MST）
+  - 模块间集成测试（BBIT）
+- HLT
+  - 系统设计验证（System Design Verification, SDV）
+  - 系统集成测试（System Integration Test, SIT）
+  - 系统验收测试（System Verification Test, SVT）
+  - Tools
+    - 持续集成（Continuous Integration, CI）
+      - Jenkins
+    - 自动化执行工具
 - 功能测试（Functional Tests）
-  - 工具（Tools）
+  - Tools
 - 性能测试（Performance Tests）
-  - 工具（Tools）
+  - Tools
+    - [JMeter](http://jmeter.apache.org/)
+    - [BurpSuit](https://portswigger.net/burp/)
+    - LoadRunner
+### 网络通讯&网络编程（Network Programming）
+- 网络模型
+- 协议（Protocols）
+- IO
+  - BIO
+  - NIO
+  - Netty
+  - Mina
+  - Grizzly
+### 分布式
+分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
+- 分布式缓存
+  - MemCache
+  - Redis
+- 分布式系统协调
+  - 分布式锁
+  - 选主
+  - ZooKeeper
+    - 提供
+      - 文件系统
+      - 通知机制
+    - 能做
+      - 命名服务
+      - 配置管理
+      - 集群管理
+      - 分布式锁
+      - 队列管理
+- 一致性
+- 分布式事务
 ### 高可用（HA&MHA&HS）
-  - 高可用性
-  - 高可靠性
-  - 高扩展性
+- 高可用性
+- 高可靠性
+- 高扩展性
+- 负载均衡
+  - Nginx
+  - HAProxy
 ### 消息队列（Message Queue）
 ### 云计算（Cloud Computing）
 - 分层架构
   - IaaS
   - PaaS
   - SaaS
-  - BDaaS
+  - BDaaS  
+    - 大数据组件  
+      - HDFS
+      - MapReduce
+      - Spark
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
 
