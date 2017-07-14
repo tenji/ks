@@ -133,13 +133,18 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 云计算（Cloud Computing）
 - 分层架构
   - IaaS
+    - 虚拟机（Virtual Machine）
   - PaaS
+    - Docker
   - SaaS
   - BDaaS  
     - 大数据组件  
       - HDFS
       - MapReduce
       - Spark
+- 框架
+  - OpenStack
+  - CloudStack
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
 
