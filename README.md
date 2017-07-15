@@ -70,7 +70,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Cassandra
     - 数据库优化
   - ORM框架（Object-Relation-Mapping Framework）
-  - 行存储vs列存储（Row vs Column Storage）
+  - [行存储vs列存储（Row vs Column Storage）](https://github.com/tenji/ks/wiki/Column-and-Row-Data-Storage)
 ### 测试
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
 - LLT
