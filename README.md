@@ -11,7 +11,9 @@
   - 责任链模式（Chain of Responsibility Pattern）
   - 模板方法模式（Template Method Pattern）
 ### Linux
+- [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
 - Shell编程（Shell Programming）
+  - Sed
 - Vim & Vi
 ### RESTful
 RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
@@ -38,6 +40,15 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Sublime Text
     - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
+- 内存区域
+- 垃圾回收器
+- 类文件与字节码
+- 编译与代码优化
+- JVM优化（JVM Tuning）
+  - GC
+  - JStack
+  - JMap
+  - JStat
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
@@ -66,10 +77,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 数据库优化
   - NOSQL
     - HBase
+      - HBase Shell
     - MongoDB
     - Cassandra
     - 数据库优化
   - ORM框架（Object-Relation-Mapping Framework）
+    - Hibernate
+    - MyBatis (iBatis)
+    - SQLAlchemy
   - [行存储vs列存储（Row vs Column Storage）](https://github.com/tenji/ks/wiki/Column-and-Row-Data-Storage)
 ### 测试
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
@@ -96,8 +111,13 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
   - OSI参考模型
+    - 网络层（Network Layer，IP、ICMP、ARP、RARP）
+    - 传输层（Transport Layer，TCP、UDP）
   - TCP/IP参考模型
 - 协议（Protocols）
+  - SSL (TLS)
+    - SSL纪录协议层（SSL Record Protocol Layer）
+    - SSL握手协议层（SSL HandShake Protocol Layer）
 - IO
   - BIO
   - NIO
@@ -107,8 +127,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 分布式
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
 - 分布式缓存
-  - MemCache
-  - Redis
+  - MemCache
+  - Redis
 - 分布式系统协调
   - 分布式锁
   - 选主
