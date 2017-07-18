@@ -134,7 +134,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 选主
   - ZooKeeper
     - 提供
-      - 文件系统
+      - [文件系统](https://github.com/tenji/ks/wiki/ZooKeeper-FileSystem)
       - 通知机制
     - 能做
       - 命名服务
