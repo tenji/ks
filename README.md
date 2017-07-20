@@ -77,7 +77,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 数据库优化
   - NOSQL
     - HBase
-      - HBase Shell
+      - [HBase Shell](https://github.com/tenji/ks/wiki/HBase-Shell-Cheat-Sheet)
     - MongoDB
     - Cassandra
     - 数据库优化
