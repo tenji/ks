@@ -153,6 +153,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - HAProxy
 ### 消息队列（Message Queue）
 ### 云计算（Cloud Computing）
+云计算是指在广域网或局域网内将硬件、软件、网络等系列资源统一起来，实现数据的计算、存储、处理和共享的一种**托管**技术。
 - 分层架构
   - IaaS
     - 虚拟机（Virtual Machine）
