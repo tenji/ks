@@ -1,7 +1,19 @@
 # 知识结构体系
 ### 设计模式（Design Pattern）
+- Creational Patterns
+  - 工厂模式（Factory Method Pattern）
+  - 单例模式（Singleton Pattern）
+  - 建造者模式（Builder Pattern）
+- Structual Patterns
+  - 代理模式（Proxy Pattern）
+- Behavioral Patterns
+  - 观察者模式（Observer Pattern）
+  - 责任链模式（Chain of Responsibility Pattern）
+  - 模板方法模式（Template Method Pattern）
 ### Linux
+- [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
 - Shell编程（Shell Programming）
+  - Sed
 - Vim & Vi
 ### RESTful
 RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
@@ -28,6 +40,15 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Sublime Text
     - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
+- [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
+- 垃圾回收器
+- 类文件与字节码
+- 编译与代码优化
+- JVM优化（JVM Tuning）
+  - GC
+  - JStack
+  - JMap
+  - JStat
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
@@ -51,12 +72,20 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 高并发（Multithreading）
 ### 数据库（DataBase）
   - SQL
-  - NOSQL  
+    - MySQL
+    - 数据老化
+    - 数据库优化
+  - NOSQL
     - HBase
+      - [HBase Shell](https://github.com/tenji/ks/wiki/HBase-Shell-Cheat-Sheet)
     - MongoDB
+    - Cassandra
+    - 数据库优化
   - ORM框架（Object-Relation-Mapping Framework）
-  - 行存储vs列存储（Row vs Column Storage）
-  - 数据库优化
+    - Hibernate
+    - MyBatis (iBatis)
+    - SQLAlchemy
+  - [行存储vs列存储（Row vs Column Storage）](https://github.com/tenji/ks/wiki/Column-and-Row-Data-Storage)
 ### 测试
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
 - LLT
@@ -81,7 +110,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - LoadRunner
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
+  - OSI参考模型
+    - 网络层（Network Layer，IP、ICMP、ARP、RARP）
+    - 传输层（Transport Layer，TCP、UDP）
+  - TCP/IP参考模型
 - 协议（Protocols）
+  - SSL (TLS)
+    - SSL纪录协议层（SSL Record Protocol Layer）
+    - SSL握手协议层（SSL HandShake Protocol Layer）
 - IO
   - BIO
   - NIO
@@ -91,14 +127,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 分布式
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
 - 分布式缓存
-  - MemCache
-  - Redis
+  - MemCache
+  - Redis
 - 分布式系统协调
   - 分布式锁
   - 选主
   - ZooKeeper
     - 提供
-      - 文件系统
+      - [文件系统](https://github.com/tenji/ks/wiki/ZooKeeper-FileSystem)
       - 通知机制
     - 能做
       - 命名服务
@@ -117,16 +153,24 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - HAProxy
 ### 消息队列（Message Queue）
 ### 云计算（Cloud Computing）
+云计算是指在广域网或局域网内将硬件、软件、网络等系列资源统一起来，实现数据的计算、存储、处理和共享的一种**托管**技术。
 - 分层架构
   - IaaS
+    - 虚拟机（Virtual Machine）
   - PaaS
+    - Docker
   - SaaS
   - BDaaS  
     - 大数据组件  
       - HDFS
       - MapReduce
       - Spark
+- 框架
+  - OpenStack
+  - CloudStack
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
 
 # 浏览器书签
+# 推荐书籍
+- [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/)★★★★★
