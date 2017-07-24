@@ -40,7 +40,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Sublime Text
     - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
-- 内存区域
+- [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
 - 垃圾回收器
 - 类文件与字节码
 - 编译与代码优化
@@ -173,4 +173,4 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 
 # 浏览器书签
 # 推荐书籍
-- [深入理解Java虚拟机：JVM高级特性与最佳实践].周志明
+- [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/)★★★★★
