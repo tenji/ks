@@ -58,6 +58,10 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 数据完整性
 - CAS
 ### Python语言
+- Python Web Framework
+  - Django
+  - Flask
+  - Pyramid
 ### 版本控制（Version Control）
 - Git
   - [分支管理](https://github.com/tenji/ks/wiki/Git-Branching-Model)
@@ -88,12 +92,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [行存储vs列存储（Row vs Column Storage）](https://github.com/tenji/ks/wiki/Column-and-Row-Data-Storage)
 ### 测试
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
-- LLT
+- LLT (Low Level Test)
   - 单元测试（Unit Test, UT）
   - 集成测试（Integration Test, IT）
   - 模块系统测试（Module System Test, MST）
   - 模块间集成测试（BBIT）
-- HLT
+- HLT (High Level Test)
   - 系统设计验证（System Design Verification, SDV）
   - 系统集成测试（System Integration Test, SIT）
   - 系统验收测试（System Verification Test, SVT）
@@ -150,6 +154,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 高可靠性
 - 高扩展性
 - 负载均衡
+  - LVS (Linux Virtual Server)
   - Nginx
   - HAProxy
 ### 消息队列（Message Queue）
