@@ -49,6 +49,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - JStack
   - JMap
   - JStat
+  - JConsole
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
