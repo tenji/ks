@@ -127,6 +127,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - IO
   - BIO
   - NIO
+  - AIO
   - Netty
   - Mina
   - Grizzly
