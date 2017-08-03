@@ -27,9 +27,15 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### JAVA语言
 - JAVAEE
   - 容器
+    - Tomcat
+      - 常用配置
+      - 远程调试
+    - Jetty
   - 框架
     - Spring
       - Spring MVC
+- JAVASE
+  - 动态代理（Dynamic Proxy）
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
@@ -45,11 +51,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 类文件与字节码
 - 编译与代码优化
 - JVM优化（JVM Tuning）
-  - GC
-  - JStack
-  - JMap
-  - JStat
-  - JConsole
+  - 命令行工具
+    - [GC](https://github.com/tenji/ks/wiki/GC-Log-Analyzing)
+    - JStack
+    - JMap
+    - JStat
+  - 可视化工具
+    - JConsole
+    - VisualVM
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
@@ -127,6 +136,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - IO
   - BIO
   - NIO
+  - AIO
   - Netty
   - Mina
   - Grizzly
