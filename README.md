@@ -47,7 +47,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 快捷键（Shortcuts）
 ### JAVA虚拟机（JVM）
 - [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
-- 垃圾回收器
+- [垃圾回收器](https://github.com/tenji/ks/wiki/Garbage-Collection)
 - 类文件与字节码
 - 编译与代码优化
 - JVM优化（JVM Tuning）
@@ -133,7 +133,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - SSL (TLS)
     - SSL纪录协议层（SSL Record Protocol Layer）
     - SSL握手协议层（SSL HandShake Protocol Layer）
-- IO
+- [IO](https://github.com/tenji/ks/wiki/JAVA-IO)
   - BIO
   - NIO
   - AIO
@@ -191,3 +191,4 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 # 浏览器书签
 # 推荐书籍
 - [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/)★★★★★
+- [Netty权威指南(第2版)](https://book.douban.com/subject/26373138/)★★★★
