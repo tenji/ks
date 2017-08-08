@@ -126,8 +126,13 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
   - OSI参考模型
-    - 网络层（Network Layer，IP、ICMP、ARP、RARP）
-    - 传输层（Transport Layer，TCP、UDP）
+    - 物理层
+    - 数据链路层
+    - 网络层（Network Layer, IP、ICMP、ARP、RARP）
+    - **传输层**（Transport Layer，TCP、UDP、Socket）
+    - **会话层**（Session Layer，RPC、SQL、NFS、X WINDOWS、ASP）
+    - 表示层（Presentation Layer）
+    - **应用层**（Application Layer，FTP、Telnet、SMTP、HTTP、RIP、NFS、DNS、NTP）
   - TCP/IP参考模型
 - 协议（Protocols）
   - SSL (TLS)
@@ -145,6 +150,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 分布式缓存
   - MemCache
   - Redis
+    - [Redis Cli](https://github.com/tenji/ks/wiki/Redis-Command-Cheat-Sheet)
 - 分布式系统协调
   - 分布式锁
   - 选主
@@ -190,5 +196,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 
 # 浏览器书签
 # 推荐书籍
-- [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/)★★★★★
-- [Netty权威指南(第2版)](https://book.douban.com/subject/26373138/)★★★★
+- [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/) ★★★★★
+- [Netty权威指南(第2版)](https://book.douban.com/subject/26373138/) ★★★★
+- [Maven实战](https://book.douban.com/subject/5345682/) ★★★★
+- [Java TCP/IP Socket编程](https://book.douban.com/subject/3519369/) ★★★★
+- [UNIX网络编程 卷1：套接字联网API（第3版）](https://book.douban.com/subject/4859464/) ★★★★★
