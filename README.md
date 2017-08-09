@@ -129,7 +129,11 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 物理层
     - 数据链路层
     - 网络层（Network Layer, IP、ICMP、ARP、RARP）
-    - **传输层**（Transport Layer，TCP、UDP、Socket）
+    - **传输层**（Transport Layer）
+      - TCP
+        - 拆包、粘包、半包
+      - UDP
+      - Socket
     - **会话层**（Session Layer，RPC、SQL、NFS、X WINDOWS、ASP）
     - 表示层（Presentation Layer）
     - **应用层**（Application Layer，FTP、Telnet、SMTP、HTTP、RIP、NFS、DNS、NTP）
@@ -139,12 +143,20 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - SSL纪录协议层（SSL Record Protocol Layer）
     - SSL握手协议层（SSL HandShake Protocol Layer）
 - [IO](https://github.com/tenji/ks/wiki/JAVA-IO)
-  - BIO
-  - NIO
-  - AIO
-  - Netty
-  - Mina
-  - Grizzly
+  - JAVA原生IO
+    - BIO
+    - NIO
+    - AIO
+  - IO Framework
+    - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
+       - ByteBuf
+       - Channel
+       - ChannelPipeline, ChannelHandler
+       - EventLoop, EventLoopGroup
+       - Future, Promise
+       - 文件传输
+    - Mina
+    - Grizzly
 ### 分布式
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
 - 分布式缓存
