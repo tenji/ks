@@ -205,7 +205,28 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - CloudStack
 ### 运维（Operation and Maintenance）
 - 运维工具（Tools）
-
+### 前端
+- JavaScript
+  - 原型链/作用域链
+  - 闭包（Closure）
+- 开发工具
+  - WebStorm
+  - HBuilder
+- 代码质量
+  - Code Style
+  - 单元测试
+    - QUnit
+  - 自动化测试
+    - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)
+    - [protractor](https://github.com/angular/protractor)
+- 前端库/框架
+  - jQuery
+  - AngularJS
+  - Bootstrap
+- 部署流程
+  - 压缩合并
+  - 文档输出
+  - 项目构建工具
 # 浏览器书签
 # 推荐书籍
 - [深入理解Java虚拟机：JVM高级特性与最佳实践.周志明](https://book.douban.com/subject/6522893/) ★★★★★
