@@ -10,6 +10,7 @@
   - 观察者模式（Observer Pattern）
   - 责任链模式（Chain of Responsibility Pattern）
   - 模板方法模式（Template Method Pattern）
+  - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---State)
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
 - Shell编程（Shell Programming）
@@ -41,7 +42,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 基本配置（Configuration）
     - 快捷键（Shortcuts）
     - 调试
-    - 插件（Plugins）
+    - [插件](https://github.com/tenji/ks/wiki/Favorite-Eclipse-Plugins)（Plugins）
   - IntelliJ IDEA
   - Sublime Text
     - 快捷键（Shortcuts）
@@ -130,7 +131,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 数据链路层
     - 网络层（Network Layer, IP、ICMP、ARP、RARP）
     - **传输层**（Transport Layer）
-      - TCP
+      - [TCP]()
         - 拆包、粘包、半包
       - UDP
       - Socket
@@ -178,6 +179,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - 队列管理
 - 一致性
 - 分布式事务
+- 分布式消息队列
+  - Kafka
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
@@ -186,7 +189,6 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - LVS (Linux Virtual Server)
   - Nginx
   - HAProxy
-### 消息队列（Message Queue）
 ### 云计算（Cloud Computing）
 云计算是指在广域网或局域网内将硬件、软件、网络等系列资源统一起来，实现数据的计算、存储、处理和共享的一种**托管**技术。
 - 分层架构
