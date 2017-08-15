@@ -54,7 +54,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - JVM优化（JVM Tuning）
   - 命令行工具
     - [GC](https://github.com/tenji/ks/wiki/GC-Log-Analyzing)
-    - JStack
+    - [JStack](https://github.com/tenji/ks/wiki/Collecting-Thread-Dumps-Using-Jstack "Collecting Thread Dumps Using Jstack")
     - JMap
     - JStat
   - 可视化工具
@@ -168,6 +168,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 分布式锁
   - 选主
   - ZooKeeper
+    - [zkCli](https://github.com/tenji/ks/wiki/ZKCli-Usage)
     - 提供
       - [文件系统](https://github.com/tenji/ks/wiki/ZooKeeper-FileSystem)
       - 通知机制
