@@ -25,6 +25,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 规范
   - 版本控制（Version Control）
   - 批量操作（Batch Op）
+### 数据结构与算法
 ### JAVA语言
 - JAVAEE
   - 容器
@@ -85,6 +86,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - SVN
 - CVS
 ### 高并发（Multithreading）
+- 操作系统原理
 ### 数据库（DataBase）
   - SQL
     - MySQL
