@@ -66,8 +66,18 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
 - 数据加密
   - 对称加密
+    - DES (Data Encryption Standard)
+    - 3DES (Triple DES)
+    - AES (Advanced Encryption Standard)
   - 非对称加密
+    - RSA
+    - DSA (Digital Signature Algorithm)
+    - ECC (Elliptic Curves Cryptography)
+  - 单向加密（散列算法）
+    - MD5, SHA, HMAC
+  - [Base64编码](https://github.com/tenji/ks/wiki/Base64-Encoding)
 - 数据完整性
+  - 数据校验
 - CAS
 ### Python语言
 - Python Web Framework
