@@ -75,7 +75,10 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - ECC (Elliptic Curves Cryptography)
   - 单向加密（散列算法）
     - MD5, SHA, HMAC
-  - [Base64编码](https://github.com/tenji/ks/wiki/Base64-Encoding)
+  - 编码
+    - [Base64](https://github.com/tenji/ks/wiki/Base64-Encoding)
+    - DER (Distinguished Encoding Rules)
+- [数字证书和数字签名（Digital Certificate & Digital Signature）](https://github.com/tenji/ks/wiki/Digital-Certificate-&-Digital-Signature)
 - 数据完整性
   - 数据校验
 - CAS
