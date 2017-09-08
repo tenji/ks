@@ -6,6 +6,8 @@
   - 建造者模式（Builder Pattern）
 - Structual Patterns
   - 代理模式（Proxy Pattern）
+  - 装饰者模式（Decorator Pattern）
+  - 适配器模式（Adapter Pattern）
 - Behavioral Patterns
   - 观察者模式（Observer Pattern）
   - 责任链模式（Chain of Responsibility Pattern）
@@ -108,6 +110,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - NOSQL
     - HBase
       - [HBase Shell](https://github.com/tenji/ks/wiki/HBase-Shell-Cheat-Sheet)
+      - BulkLoad
     - MongoDB
     - Cassandra
     - 数据库优化
