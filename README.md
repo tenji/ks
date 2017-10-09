@@ -40,6 +40,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - Spring MVC
 - JAVASE
   - 动态代理（Dynamic Proxy）
+  - [嵌套类（Nested Class）](https://github.com/tenji/ks/wiki/JAVA-Inner-Classes)
+  - [类加载器（ClassLoader）](https://github.com/tenji/ks/wiki/JAVA-ClassLoader)
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
