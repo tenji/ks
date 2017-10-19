@@ -26,7 +26,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - RESTful API Design
   - 规范
   - 版本控制（Version Control）
-  - 批量操作（Batch Op）
+  - [批量操作（Batch Op）](https://github.com/tenji/ks/wiki/RESTful-Batch-Operations)
 ### 数据结构与算法
 ### JAVA语言
 - JAVAEE
