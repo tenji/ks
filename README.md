@@ -102,8 +102,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Github for Desktop](https://desktop.github.com/)
 - SVN
 - CVS
-### 高并发（Multithreading）
+### 高并发（Concurrent, Multitasking & Multithreading）
 - 操作系统原理
+- Java常用并发类
+  - 集合类
+  - 原子类（AtomicInteger）
+  - 线程池（ThreadPoolExecutor, Executor, FutureTask）
+  - 锁（ReentrantLock, ReentrantReadWriteLock）
+  - 工具类（[CountDownLatch](https://github.com/tenji/ks/wiki/Concurrent---CountDownLatch), CyclicBarrier, Semaphore）
 ### 数据库（DataBase）
   - SQL
     - MySQL
