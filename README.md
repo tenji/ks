@@ -91,10 +91,13 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Django
   - Flask
   - Pyramid
+### Bat脚本
 ### 版本控制（Version Control）
 - Git
   - [分支管理](https://github.com/tenji/ks/wiki/Git-Branching-Model)
   - [常用命令](https://github.com/tenji/ks/wiki/Git-Common-Commands)
+  - Git Tips
+    - [Maintaining a clean Git History](https://github.com/tenji/ks/wiki/Git-tips---Maintaining-a-clean-Git-History)
   - [MarkDown](https://github.com/tenji/ks/wiki/Markdown-Grammar)
   - Tools
     - [SourceTree](https://www.sourcetreeapp.com/)
@@ -208,6 +211,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 分布式事务
 - 分布式消息队列
   - Kafka
+    - [Kafka Shell](https://github.com/tenji/ks/wiki/Kafka-Shell-Usage)
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
