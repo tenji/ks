@@ -51,6 +51,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - IntelliJ IDEA
   - Sublime Text
     - 快捷键（Shortcuts）
+    - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
 ### JAVA虚拟机（JVM）
 - [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
 - [垃圾回收器](https://github.com/tenji/ks/wiki/Garbage-Collection)
@@ -212,6 +213,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 分布式消息队列
   - Kafka
     - [Kafka Shell](https://github.com/tenji/ks/wiki/Kafka-Shell-Usage)
+    - [The actual role of Zookeeper in Kafka](https://github.com/tenji/ks/wiki/The-actual-role-of-Zookeeper-in-Kafka)
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
