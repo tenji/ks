@@ -121,7 +121,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 数据老化
     - 数据库优化
   - NOSQL
-    - HBase
+    - [HBase](https://github.com/tenji/ks/wiki/HBase-Architecture)
       - [HBase Shell](https://github.com/tenji/ks/wiki/HBase-Shell-Cheat-Sheet)
       - BulkLoad
     - MongoDB
