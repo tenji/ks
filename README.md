@@ -28,7 +28,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 版本控制（Version Control）
   - [批量操作（Batch Op）](https://github.com/tenji/ks/wiki/RESTful-Batch-Operations)
 - Swagger
-  - Swagger Editor
+  - [Swagger Editor](https://editor.swagger.io//#/)
   - Swagger UI
   - Swagger Codegen
 - 数据交换格式
@@ -132,6 +132,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [HBase](https://github.com/tenji/ks/wiki/HBase-Architecture)
       - [HBase Shell](https://github.com/tenji/ks/wiki/HBase-Shell-Cheat-Sheet)
       - BulkLoad
+      - [HBase Backup](https://github.com/tenji/ks/wiki/%E2%80%8BBacking-up-and-Restoring-Apache-HBase-Datasets)
     - MongoDB
     - Cassandra
     - 数据库优化
