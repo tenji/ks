@@ -200,6 +200,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Grizzly
 ### 分布式
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
+- 协议
+  - Lease机制
+  - Quorum机制
+  - 副本控制（primary-secondary）
+  - 二阶段提交（coordinate, participant）
+  - paxos
 - 分布式缓存
   - MemCache
   - Redis
@@ -224,6 +230,10 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Kafka
     - [Kafka Shell](https://github.com/tenji/ks/wiki/Kafka-Shell-Usage)
     - [The actual role of Zookeeper in Kafka](https://github.com/tenji/ks/wiki/The-actual-role-of-Zookeeper-in-Kafka)
+  - Flume
+    - Source
+    - Sink
+    - Channel
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
