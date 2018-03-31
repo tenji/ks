@@ -18,6 +18,7 @@
 - Shell编程（Shell Programming）
   - Sed
 - Vim & Vi
+- [Systemd](https://github.com/tenji/ks/wiki/Systemd)
 ### RESTful
 RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
 - 实现框架
@@ -230,6 +231,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Kafka
     - [Kafka Shell](https://github.com/tenji/ks/wiki/Kafka-Shell-Usage)
     - [The actual role of Zookeeper in Kafka](https://github.com/tenji/ks/wiki/The-actual-role-of-Zookeeper-in-Kafka)
+    - Consumer
+    - Producer
   - Flume
     - Source
     - Sink
