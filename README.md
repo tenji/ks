@@ -19,6 +19,7 @@
   - Sed
 - Vim & Vi
 - [Systemd](https://github.com/tenji/ks/wiki/Systemd)
+- [Ulimit](https://github.com/tenji/ks/wiki/ulimit-Command) (max processes, max threads per process, max descriptors...)
 ### RESTful
 RESTful是一种规范和原则，并不是一种实现方式，它更关注的是**设计**和**规范**，而不是**实现**。
 - 实现框架
@@ -238,6 +239,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Sink
     - Channel
     - Plugin
+- 分布式日志收集
+  - Logstash
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
