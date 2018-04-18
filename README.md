@@ -102,6 +102,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Django
   - Flask
   - Pyramid
+### Ruby
+- JRuby
 ### Bat脚本
 ### 版本控制（Version Control）
 - Git
