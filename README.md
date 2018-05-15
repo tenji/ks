@@ -59,8 +59,16 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [插件](https://github.com/tenji/ks/wiki/Favorite-Eclipse-Plugins)（Plugins）
   - IntelliJ IDEA
   - Sublime Text
-    - 快捷键（Shortcuts）
-    - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
+    - [快捷键（Shortcuts）](https://github.com/tenji/ks/wiki/Sublime-Shortcuts)
+    - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
+- 项目构建
+  - Maven
+    - 仓库（仓库布局、仓库分类、仓库依赖解析机制）
+    - Nexus
+      - Install Nexus
+      - Nexus Repositories
+      - Deploy to Nexus
+  - Gradle
 ### JAVA虚拟机（JVM）
 - [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
 - [垃圾回收器](https://github.com/tenji/ks/wiki/Garbage-Collection)
