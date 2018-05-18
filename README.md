@@ -36,6 +36,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 数据交换格式
   - JSON
   - ProtoBuf
+  - Avro
+  - Thrift
 ### 数据结构与算法
 ### JAVA语言
 - JAVAEE
@@ -60,7 +62,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - IntelliJ IDEA
   - Sublime Text
     - [快捷键（Shortcuts）](https://github.com/tenji/ks/wiki/Sublime-Shortcuts)
-    - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
+    - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
 - 项目构建
   - Maven
     - 仓库（仓库布局、仓库分类、仓库依赖解析机制）
