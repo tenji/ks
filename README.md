@@ -65,7 +65,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
 - 项目构建
   - Maven
-    - 仓库（仓库布局、仓库分类、仓库依赖解析机制）
+    - [仓库](https://github.com/tenji/ks/wiki/Introduction-to-Maven-Repositories)（仓库布局、仓库分类、仓库依赖解析机制）
     - Nexus
       - Install Nexus
       - Nexus Repositories
@@ -191,7 +191,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - Socket
     - **会话层**（Session Layer，RPC、SQL、NFS、X WINDOWS、ASP）
     - 表示层（Presentation Layer）
-    - **应用层**（Application Layer，FTP、Telnet、SMTP、HTTP、RIP、NFS、DNS、NTP）
+    - **应用层**（Application Layer，FTP、Telnet、SMTP、HTTP、RIP、NFS、DNS、NTP、MQTT）
   - TCP/IP参考模型
 - 协议（Protocols）
   - SSL (TLS)
@@ -253,6 +253,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Plugin
 - 分布式日志收集
   - Logstash
+### Message Queue（消息队列）
+- MQTT
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
