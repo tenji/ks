@@ -73,6 +73,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Gradle
 ### JAVA虚拟机（JVM）
 - [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
+  - [Different Ways to Measure Memory](https://github.com/tenji/ks/wiki/Different-Ways-to-Measure-Memory) (VIRT, RES, SHR, SWAP)
 - [垃圾回收器](https://github.com/tenji/ks/wiki/Garbage-Collection)
 - 类文件与字节码
 - 编译与代码优化
@@ -254,7 +255,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 分布式日志收集
   - Logstash
 ### Message Queue（消息队列）
-- MQTT
+- [MQTT](https://github.com/tenji/ks/wiki/MQTT)
 ### 高可用（HA&MHA&HS）
 - 高可用性
 - 高可靠性
