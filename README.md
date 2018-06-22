@@ -53,6 +53,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 动态代理（Dynamic Proxy）
   - [嵌套类（Nested Class）](https://github.com/tenji/ks/wiki/JAVA-Inner-Classes)
   - [类加载器（ClassLoader）](https://github.com/tenji/ks/wiki/JAVA-ClassLoader)
+  - SPI (Service Provider Interface)
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
@@ -177,6 +178,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Tools
     - [JMeter](http://jmeter.apache.org/)
       - [BeanShell](https://github.com/tenji/ks/wiki/How-to-Use-BeanShell)
+      - [Plugins](https://github.com/tenji/ks/wiki/JMeter-Plugins)
     - [BurpSuit](https://portswigger.net/burp/)
     - LoadRunner
 ### 网络通讯&网络编程（Network Programming）
