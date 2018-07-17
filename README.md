@@ -49,6 +49,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 框架
     - Spring
       - Spring MVC
+      - Spring Boot
 - JAVASE
   - 动态代理（Dynamic Proxy）
   - [嵌套类（Nested Class）](https://github.com/tenji/ks/wiki/JAVA-Inner-Classes)
@@ -84,10 +85,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [JStack](https://github.com/tenji/ks/wiki/Collecting-Thread-Dumps-Using-Jstack "Collecting Thread Dumps Using Jstack")
     - JMap
     - JStat
+    - BTrace
   - 可视化工具
     - [YourKit](https://www.yourkit.com/)
     - JConsole
     - VisualVM
+    - JProfile (Commercial Authorization)
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
@@ -133,11 +136,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - CVS
 ### 高并发（Concurrent, Multitasking & Multithreading）
 - 操作系统原理
-- Java常用并发类
+- Java常用并发类（JUC, java.util.concurrent）
   - 集合类
   - 原子类（AtomicInteger）
   - 线程池（ThreadPoolExecutor, Executor, FutureTask）
   - 锁（ReentrantLock, ReentrantReadWriteLock）
+    - [Different types of locks in Java](https://github.com/tenji/ks/wiki/Different-types-of-locks-in-Java)
   - 工具类（[CountDownLatch](https://github.com/tenji/ks/wiki/Concurrent---CountDownLatch), CyclicBarrier, Semaphore）
 ### 数据库（DataBase）
   - SQL
