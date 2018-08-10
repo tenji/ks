@@ -15,8 +15,11 @@
   - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---State)
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
-- Shell编程（Shell Programming）
+- [Shell编程（Shell Programming）](https://github.com/tenji/ks/wiki/Unix-Shell-Programming)
   - Sed
+  - Awk
+  - Grep
+  - [重定向（Shell Redirection）](https://github.com/tenji/ks/wiki/Input-Output-Redirection-in-the-Shell)
 - Vim & Vi
 - [Systemd](https://github.com/tenji/ks/wiki/Systemd)
 - [Ulimit](https://github.com/tenji/ks/wiki/ulimit-Command) (max processes, max threads per process, max descriptors...)
