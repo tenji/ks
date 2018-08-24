@@ -61,7 +61,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
-    - 快捷键（Shortcuts）
+    - [快捷键（Shortcuts）](https://github.com/tenji/ks/wiki/Eclipse-Shortcuts)
     - 调试
     - [插件](https://github.com/tenji/ks/wiki/Favorite-Eclipse-Plugins)（Plugins）
   - IntelliJ IDEA
@@ -122,6 +122,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Pyramid
 ### Ruby
 - JRuby
+### Golang
 ### Bat脚本
 ### 版本控制（Version Control）
 - Git
