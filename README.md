@@ -46,7 +46,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - JAVAEE
   - 容器
     - Tomcat
-      - 常用配置
+      - [常用配置](https://github.com/tenji/ks/wiki/Tomcat-Common-Configuration)
       - 远程调试
     - Jetty
   - 框架
@@ -94,6 +94,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - JConsole
     - VisualVM
     - JProfile (Commercial Authorization)
+  - [JVM调优设置](https://github.com/tenji/ks/wiki/Tuning-the-JVM-for-Performance)
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
