@@ -131,6 +131,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [常用命令](https://github.com/tenji/ks/wiki/Git-Common-Commands)
   - Git Tips
     - [Maintaining a clean Git History](https://github.com/tenji/ks/wiki/Git-tips---Maintaining-a-clean-Git-History)
+    - [Git Ref & Refspec](https://github.com/tenji/ks/wiki/Git-Ref-&-Refspec)
   - [MarkDown](https://github.com/tenji/ks/wiki/Markdown-Grammar)
     - [markdown converter](https://github.com/tenji/ks/wiki/Markdown-Converter)
   - Tools
