@@ -191,6 +191,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - [Plugins](https://github.com/tenji/ks/wiki/JMeter-Plugins)
     - [BurpSuit](https://portswigger.net/burp/)
     - LoadRunner
+- 用户验收测试（User Acceptance Test，UAT）
+  - Pre-Alpha
+  - Alpha
+  - Beta
+  - Release Candidate (RC)
+  - Release
 ### 网络通讯&网络编程（Network Programming）
 - 网络模型
   - OSI参考模型
