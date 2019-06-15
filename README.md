@@ -65,6 +65,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 调试
     - [插件](https://github.com/tenji/ks/wiki/Favorite-Eclipse-Plugins)（Plugins）
   - IntelliJ IDEA
+    - [Shortcuts](https://github.com/tenji/ks/wiki/IntelliJ-IDEA-Shortcuts)
   - Sublime Text
     - [快捷键（Shortcuts）](https://github.com/tenji/ks/wiki/Sublime-Shortcuts)
     - [Plugins](https://github.com/tenji/ks/wiki/Sublime-Plugins)
