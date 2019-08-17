@@ -297,7 +297,14 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - HDFS
       - MapReduce
       - Spark
+        - Spark Core
+        - Spark SQL
+        - [Spark Streaming](https://github.com/tenji/ks/wiki/Spark-Streaming-Architecture)
+          - [Spark Streaming + Kafka](https://github.com/tenji/ks/wiki/Spark-Streaming-with-Kafka)
       - Flink
+        - Flink SQL
+        - Flink Streaming
+      - Strom
 - 框架
   - OpenStack
   - CloudStack
