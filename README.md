@@ -270,6 +270,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [The actual role of Zookeeper in Kafka](https://github.com/tenji/ks/wiki/The-actual-role-of-Zookeeper-in-Kafka)
     - Consumer
     - Producer
+    - [源码解析](https://github.com/tenji/ks/wiki/Kafka-Source-Code-Analysis)
+    - [幂等性和事务性](https://github.com/tenji/ks/wiki/Kafka-idempotency-and-transactionality)
   - Flume
     - Source
     - Sink
