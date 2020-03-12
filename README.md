@@ -227,6 +227,10 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - JAVA原生IO
     - BIO
     - NIO
+      - Buffer
+      - Channel
+      - Selector
+      - SelectionKey
     - AIO
   - IO Framework
     - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
