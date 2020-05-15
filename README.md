@@ -291,11 +291,12 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 高可用性
 - 高可靠性
 - 高扩展性
-- 负载均衡
+- 负载均衡（LB）
   - LVS (Linux Virtual Server)
   - Nginx
     - [Nginx for Windows](https://github.com/tenji/ks/wiki/Nginx-for-Windows)
   - HAProxy
+  - [四层、七层负载均衡](https://github.com/tenji/ks/wiki/Layer-4-vs-Layer-7-Load-Balancing)
 ### 云计算（Cloud Computing）
 云计算是指在广域网或局域网内将硬件、软件、网络等系列资源统一起来，实现数据的计算、存储、处理和共享的一种**托管**技术。
 - 分层架构
