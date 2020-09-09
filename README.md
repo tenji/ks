@@ -275,6 +275,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Kafka Shell](https://github.com/tenji/ks/wiki/Kafka-Shell-Usage)
     - [The actual role of Zookeeper in Kafka](https://github.com/tenji/ks/wiki/The-actual-role-of-Zookeeper-in-Kafka)
     - [Kafka Replica Protocol](https://github.com/tenji/ks/wiki/Kafka-Replica-Protocol)
+    - [Client and broker compatibility across Kafka versions](https://github.com/tenji/ks/wiki/Client-and-broker-compatibility-across-Kafka-versions)
     - Consumer
     - Producer
     - [源码解析](https://github.com/tenji/ks/wiki/Kafka-Source-Code-Analysis)
