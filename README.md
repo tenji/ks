@@ -218,6 +218,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - **会话层**（Session Layer，RPC、SQL、NFS、X WINDOWS、ASP）
     - 表示层（Presentation Layer）
     - **应用层**（Application Layer，FTP、Telnet、SMTP、HTTP、RIP、NFS、DNS、NTP、MQTT）
+      - HTTP/2.0
   - TCP/IP参考模型
 - 协议（Protocols）
   - SSL (TLS)
