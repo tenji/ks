@@ -167,6 +167,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - BulkLoad
       - [HBase Backup](https://github.com/tenji/ks/wiki/%E2%80%8BBacking-up-and-Restoring-Apache-HBase-Datasets)
       - [HBase WAL](https://github.com/tenji/ks/wiki/HBase-WAL)
+      - [HBase Startup Process]()
     - MongoDB
     - Cassandra
     - 数据库优化
