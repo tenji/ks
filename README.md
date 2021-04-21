@@ -60,6 +60,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - SPI (Service Provider Interface)
   - 正则表达式（Regex）
     - [前瞻、后瞻](https://github.com/tenji/ks/wiki/Regex---Lookahead-and-Lookbehind-Assertsions)
+  - [集合（Collection）](https://github.com/tenji/ks/wiki/%E5%85%B3%E4%BA%8E-Java-%E9%9B%86%E5%90%88)
 - 开发调试工具
   - Eclipse
     - 基本配置（Configuration）
