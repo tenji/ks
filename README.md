@@ -151,7 +151,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 高并发（Concurrent, Multitasking & Multithreading）
 - 操作系统原理
 - Java常用并发类（JUC, java.util.concurrent）
-  - 集合类
+  - [集合类](https://github.com/tenji/ks/wiki/%E5%85%B3%E4%BA%8E%E5%B9%B6%E5%8F%91%E5%AE%B9%E5%99%A8)
   - 原子类（AtomicInteger）
   - 线程池（ThreadPoolExecutor, Executor, FutureTask）
   - 锁（ReentrantLock, ReentrantReadWriteLock）
