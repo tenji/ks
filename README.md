@@ -48,6 +48,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Tomcat
       - [常用配置](https://github.com/tenji/ks/wiki/Tomcat-Common-Configuration)
       - 远程调试
+      - [Tomcat 高并发及性能调优](https://github.com/tenji/ks/wiki/Tomcat-High-Concurrency-and-Performance-Optimization)
     - Jetty
   - 框架
     - Spring
