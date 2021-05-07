@@ -251,6 +251,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 分布式（Distributed）
 分布式计算就是通过**计算机网络**将计算工作分布到多台主机上，多个主机一起协同完成工作，**网络编程**是基础中的基础。
 - [基本理论（CAP，BASE，ACID）](https://github.com/tenji/ks/wiki/Basic-Concepts-of-Distribution)
+- [分布式数据复制](https://github.com/tenji/ks/wiki/Distributing-Data-Replication)
 - 协议
   - Lease机制
   - Quorum机制
