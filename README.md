@@ -84,6 +84,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### JAVA虚拟机（JVM）
 - [内存区域](https://github.com/tenji/ks/wiki/JVM-Memory-Model)
   - [Different Ways to Measure Memory](https://github.com/tenji/ks/wiki/Different-Ways-to-Measure-Memory) (VIRT, RES, SHR, SWAP)
+  - [What is Metaspace?](https://github.com/tenji/ks/wiki/Metaspace-Series)
 - [垃圾回收器](https://github.com/tenji/ks/wiki/Garbage-Collection)
 - 类文件与字节码
 - 编译与代码优化
