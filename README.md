@@ -289,6 +289,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Kafka Replica Protocol](https://github.com/tenji/ks/wiki/Kafka-Replica-Protocol)
     - [Kafka 扩容和缩容](https://github.com/tenji/ks/wiki/Kafka-Scale-Up-and-Scale-Down)
     - [Client and broker compatibility across Kafka versions](https://github.com/tenji/ks/wiki/Client-and-broker-compatibility-across-Kafka-versions)
+    - [Kafka 跨集群同步](https://github.com/tenji/ks/wiki/Kafka-%E8%B7%A8%E9%9B%86%E7%BE%A4%E5%90%8C%E6%AD%A5---MirrorMaker)
     - Consumer
     - Producer
     - [源码解析](https://github.com/tenji/ks/wiki/Kafka-Source-Code-Analysis)
