@@ -56,7 +56,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - 基本算法
   - 递归
   - 排序
-  - 二分查找
+  - [二分查找](https://github.com/tenji/ks/wiki/Searching-Algorithms)
   - 搜索
   - 哈希算法
   - 贪心算法
