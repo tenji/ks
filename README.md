@@ -47,7 +47,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 链表
   - 栈
   - 队列
-  - 散列表
+  - 散列表（哈希表）
   - 二叉树
   - 堆
   - 跳表
@@ -57,11 +57,11 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 递归
   - 排序
   - [二分查找](https://github.com/tenji/ks/wiki/Searching-Algorithms)
-  - 搜索
+  - [搜索](https://github.com/tenji/ks/wiki/DFS-&&-BFS)
   - 哈希算法
-  - 贪心算法
+  - [贪心算法](https://github.com/tenji/ks/wiki/Greedy-Algorithm)
   - 分治算法
-  - 回溯算法
+  - [回溯算法](https://github.com/tenji/ks/wiki/Backtracking-Algorithm)
   - 动态规划
   - 字符串匹配算法
 ### JAVA语言
