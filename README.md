@@ -48,7 +48,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 栈
   - 队列
   - 散列表（哈希表）
-  - 二叉树
+  - [二叉树](https://github.com/tenji/ks/wiki/Tree-Data-Structure)
   - 堆
   - 跳表
   - 图
@@ -64,6 +64,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [回溯算法](https://github.com/tenji/ks/wiki/Backtracking-Algorithm)
   - 动态规划
   - 字符串匹配算法
+- 其它
+  - [滑动窗口](https://github.com/tenji/ks/wiki/Sliding-Window-Algorithm)
 ### JAVA语言
 - JAVAEE
   - 容器
