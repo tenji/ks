@@ -63,7 +63,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 分治算法
   - [回溯算法](https://github.com/tenji/ks/wiki/Backtracking-Algorithm)
   - 动态规划
-  - 字符串匹配算法
+  - [字符串匹配算法](https://github.com/tenji/ks/wiki/String-Matching-Algorithm)
 - 其它
   - [滑动窗口](https://github.com/tenji/ks/wiki/Sliding-Window-Algorithm)
 ### JAVA语言
