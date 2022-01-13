@@ -44,7 +44,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 ### 数据结构与算法
 - 基本数据结构
   - 数组
-  - 链表
+  - [链表](https://github.com/tenji/ks/wiki/Linked-List)
   - 栈
   - 队列
   - 散列表（哈希表）
