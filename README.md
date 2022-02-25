@@ -247,6 +247,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - **传输层**（Transport Layer）
       - [TCP](https://github.com/tenji/ks/wiki/TCP,-Transmission-Control-Protocol)
         - 拆包、粘包、半包
+        - [为什么会出现大量的 CLOSE_WAIT](https://github.com/tenji/ks/wiki/TCP,-Transmission-Control-Protocol#61-%E5%87%BA%E7%8E%B0%E5%A4%A7%E9%87%8F-close_wait-%E7%9A%84%E5%8E%9F%E5%9B%A0)
       - UDP
       - Socket
     - **会话层**（Session Layer，RPC、SQL、NFS、X WINDOWS、ASP）
