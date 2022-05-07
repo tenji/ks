@@ -364,6 +364,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - Flink
         - Flink SQL
         - Flink Streaming
+        - Connectors
+          - [Flink Kafka Connector 源码解析](https://github.com/tenji/ks/wiki/Flink-Kafka-Connector-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
       - Strom
 - 框架
   - OpenStack
