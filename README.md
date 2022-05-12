@@ -216,6 +216,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 功能测试是基于原始需求的，集成测试是基于模块交互的，在一定程度上，功能测试是**包含**集成测试的。
 - LLT (Low Level Test)
   - 单元测试（Unit Test, UT）
+    - [Best Practices For Unit Testing In Java](https://github.com/tenji/ks/wiki/Best-Practices-For-Unit-Testing-In-Java)
   - 集成测试（Integration Test, IT）
   - 模块系统测试（Module System Test, MST）
   - 模块间集成测试（BBIT）
