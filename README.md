@@ -302,6 +302,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 分布式锁
   - 选主
   - ZooKeeper
+    - [ZooKeeper 容灾](https://github.com/tenji/ks/wiki/Disaster-Recovery-for-ZooKeeper)
     - [zkCli](https://github.com/tenji/ks/wiki/ZKCli-Usage)
     - 提供
       - [文件系统](https://github.com/tenji/ks/wiki/ZooKeeper-FileSystem)
