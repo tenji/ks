@@ -336,7 +336,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Logstash
 ### Message Queue（消息队列）
 - [MQTT](https://github.com/tenji/ks/wiki/MQTT)
-### 高可用（HA&MHA&HS）
+### 高可用（HA & MHA & HS）
 - 高可用性
 - 高可靠性
 - 高扩展性
@@ -346,6 +346,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Nginx for Windows](https://github.com/tenji/ks/wiki/Nginx-for-Windows)
   - HAProxy
   - [四层、七层负载均衡](https://github.com/tenji/ks/wiki/Layer-4-vs-Layer-7-Load-Balancing)
+- [DFX (Design for X)](https://github.com/tenji/ks/wiki/Design-for-X)
 ### 云计算（Cloud Computing）
 云计算是指在广域网或局域网内将硬件、软件、网络等系列资源统一起来，实现数据的计算、存储、处理和共享的一种**托管**技术。
 - 分层架构
