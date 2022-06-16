@@ -130,6 +130,65 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - VisualVM
     - JProfile (Commercial Authorization)
   - [JVM调优设置](https://github.com/tenji/ks/wiki/Tuning-the-JVM-for-Performance)
+### Android
+  - 四大组件（Four Main Components）
+    - [Activity — Activity Lifecycle, Tasks & Back Stack](https://github.com/tenji/ks/wiki/Android-Activity)
+    - [Service](https://github.com/tenji/ks/wiki/Android-Service)
+    - [Broadcast Receiver](https://github.com/tenji/ks/wiki/Android-BroadcastReceiver)
+    - Content Provider
+  - Intents
+    - Types of Intent
+      - Implicit
+      - Explicit
+    - Intent Filter
+  - [Fragments](https://github.com/tenji/ks/wiki/Android-Fragment)
+    - Fragment Lifecycle
+    - Fragment Manager
+  - [UI Resources](https://github.com/tenji/ks/wiki/Android-Resources)
+    - Drawables
+    - String
+    - Styles
+  - Static User Interface
+    - View 
+    - ViewGroup
+    - ConstraintLayout
+    - AndroidX Constraint Layout library, part of Jetpack
+  - Dynamic User Interface
+    - RecyclerView - 列表类的布局首选控件，性能相对 ListView 要好一些，功能也比 ListView 要多一些
+    - ViewPager
+    - Spinner
+  - Support User Interface
+    - ProgressBar - 进度条
+    - Dialogs - 弹框
+    - Toast & Snackbar - 提示
+  - CustomView
+    - Canvas
+    - Bitmap
+    - Paint
+  - Android Jetpack
+    - Foundation Components — AppCompat, Android KTX, Multidex
+    - Architecture Components — LiveData, ViewModel, DataBinding, Paging, Work Manager, Navigation
+    - Behaviour Components - Download Manager, Media Playback, Notification, Permissions, Preference, Sharing, Slice
+    - UI Component - Animation & Transition, Android Auto, Emoji, Palette, Android TV, Android Wear
+  - Storage
+  - Build
+    - gradle
+    - Debug / Release Configuration
+    - 多渠道打包（国内特有）
+    - ASM
+  - Threading
+  - Debugging
+  - 3rd Party Library
+    - Image Loading - Glide, Picasso
+    - Dependency Injection - Dagger
+    - Networking - Fast Android Networking Library, Retrofit
+    - MultiThreading - RxJava, Coroutines
+  - App Release
+    - .keystore file
+    - App Bundle
+    - Playstore
+    - 多渠道打包
+    - 插件化
 ### 安全与加密（Security & Encryption）
 - 认证
   - [Kerberos](https://github.com/tenji/ks/wiki/Kerberos-Explained)
