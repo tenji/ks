@@ -60,7 +60,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [搜索](https://github.com/tenji/ks/wiki/DFS-&&-BFS)
   - 哈希算法
   - [贪心算法](https://github.com/tenji/ks/wiki/Greedy-Algorithm)
-  - 分治算法
+  - [分治算法](https://github.com/tenji/ks/wiki/Divide-and-Conquer-Algorithm)
   - [回溯算法](https://github.com/tenji/ks/wiki/Backtracking-Algorithm)
   - 动态规划
   - [字符串匹配算法](https://github.com/tenji/ks/wiki/String-Matching-Algorithm)
@@ -148,6 +148,10 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Drawables
     - String
     - Styles
+  - Threading (Message-Looper-Handler)
+    - Threads
+    - Handler / Looper / Message / MessageQueue
+    - AIDL / Binder
   - Static User Interface
     - View 
     - ViewGroup
@@ -176,7 +180,6 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Debug / Release Configuration
     - 多渠道打包（国内特有）
     - ASM
-  - Threading
   - Debugging
   - 3rd Party Library
     - Image Loading - Glide, Picasso
