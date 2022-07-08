@@ -150,8 +150,13 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Styles
   - Threading (Message-Looper-Handler)
     - Threads
-    - Handler / Looper / Message / MessageQueue
+    - [Handler](https://github.com/tenji/ks/wiki/Android-Handler) / Looper / Message / MessageQueue
     - AIDL / Binder
+  - Architecture
+    - Router
+  - Unit Testing
+    - Local Unit Testing
+    - Instrumentation Testing
   - Static User Interface
     - View 
     - ViewGroup
