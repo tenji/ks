@@ -52,7 +52,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 堆
   - 跳表
   - 图
-  - Trie 树
+  - [Trie 树（字典树、前缀树）](https://github.com/tenji/ks/wiki/Trie)
 - 基本算法
   - 递归
   - 排序
