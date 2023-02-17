@@ -181,7 +181,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - UI Component - Animation & Transition, Android Auto, Emoji, Palette, Android TV, Android Wear
   - Storage
   - Build
-    - gradle
+    - [gradle](https://github.com/tenji/ks/wiki/Android-Gradle)
     - Debug / Release Configuration
     - 多渠道打包（国内特有）
     - ASM
