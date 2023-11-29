@@ -276,7 +276,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Hibernate
     - MyBatis (iBatis)
     - SQLAlchemy
-  - OLTP vs OLAP vs HTAP
+  - [OLTP vs OLAP vs HTAP](https://github.com/tenji/ks/wiki/OLTP-vs-OLAP-vs-HTAP)
   - [行存储vs列存储（Row vs Column Storage）](https://github.com/tenji/ks/wiki/Column-and-Row-Data-Storage)
   - [HBase vs MySQL](https://github.com/tenji/ks/wiki/HBase-vs-MySQL)
 ### 测试
