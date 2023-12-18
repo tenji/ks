@@ -209,7 +209,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - 3DES (Triple DES)
     - AES (Advanced Encryption Standard)
   - 非对称加密
-    - RSA
+    - RSA (Rivest–Shamir–Adleman)
     - DSA (Digital Signature Algorithm)
     - ECC (Elliptic Curves Cryptography)
   - 单向加密（散列算法）
