@@ -70,7 +70,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [位运算](https://github.com/tenji/ks/wiki/Bitwise-Operation)
     - [十六进制的异或运算（字符串转十六进制、十进制、二进制）](https://github.com/tenji/ks/wiki/Bitwise-Operation#231-%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E7%9A%84%E5%BC%82%E6%88%96%E8%BF%90%E7%AE%97%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E5%8D%81%E8%BF%9B%E5%88%B6%E4%BA%8C%E8%BF%9B%E5%88%B6)
   - [Java Stream](https://github.com/tenji/ks/wiki/Java-Stream)
-  - 前缀和 & 差分数组
+  - [前缀和 & 差分数组](https://github.com/tenji/ks/wiki/Prefix-Sum-&-Adjacent-Difference)
   - [打表法](https://github.com/tenji/ks/wiki/%E6%89%93%E8%A1%A8%E6%B3%95)
   - [Some Memos](https://github.com/tenji/ks/wiki/Some-Memos)
 ### JAVA语言
