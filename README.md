@@ -72,6 +72,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [Java Stream](https://github.com/tenji/ks/wiki/Java-Stream)
   - 前缀和 & 差分数组
   - [打表法](https://github.com/tenji/ks/wiki/%E6%89%93%E8%A1%A8%E6%B3%95)
+  - [Some Memos](https://github.com/tenji/ks/wiki/Some-Memos)
 ### JAVA语言
 - JAVAEE
   - 容器
