@@ -50,6 +50,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [单调栈（Monotone Stack）](https://github.com/tenji/ks/wiki/Monotonic-Stack)
   - 队列
   - 散列表（哈希表）
+  - 并查集（Joint Set）
   - [二叉树](https://github.com/tenji/ks/wiki/Tree-Data-Structure)
   - 堆
   - 跳表
