@@ -277,6 +277,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - [HBase Startup Process]()
     - MongoDB
     - Cassandra
+    - DynomoDB
+      - [Dynamo: Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
     - 数据库优化
   - ORM框架（Object-Relation-Mapping Framework）
     - Hibernate
