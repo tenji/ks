@@ -53,7 +53,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 并查集（Disjoint Set Union, or Union Find）
   - [二叉树](https://github.com/tenji/ks/wiki/Tree-Data-Structure)
   - 堆
-  - 跳表
+  - [跳表](https://github.com/tenji/ks/wiki/Skip-List)
   - 图
   - [Trie 树（字典树、前缀树）](https://github.com/tenji/ks/wiki/Trie)
 - 基本算法
@@ -377,7 +377,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [Redis Cli](https://github.com/tenji/ks/wiki/Redis-Command-Cheat-Sheet)
     - Redis Persistence
     - [Cache Breakdown, Cache Penetration, Cache Avalanche, Cache Warming](https://github.com/tenji/ks/wiki/Cache-Breakdown,-Cache-Penetration,-Cache-Avalanche,-Cache-Warming)
-    - data types
+    - [Data Types](https://github.com/tenji/ks/wiki/Redis-Data-Types)
 - 分布式系统协调
   - 分布式锁
   - 选主
