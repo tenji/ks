@@ -268,7 +268,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - SQL
     - MySQL
       - [Database Engines](https://github.com/tenji/ks/wiki/MySQL-Database-Engines)
-      - undolog, redolog, binlog & two-phase commit (2PC)
+      - [undolog, redolog, binlog & two-phase commit (2PC)](https://github.com/tenji/ks/wiki/undolog,-redolog,-binlog-&-two%E2%80%90phase-commit-(2PC))
     - 数据老化
     - 数据库优化
   - NOSQL
