@@ -370,8 +370,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Lease机制
   - Quorum机制
   - 副本控制（primary-secondary）
-  - 二阶段提交（coordinate, participant）
-  - 三阶段提交
+  - 二阶段提交（two-phase commit, coordinate, participant）
+  - 三阶段提交（three-phase commit）
   - paxos
   - raft
 - 分布式缓存
