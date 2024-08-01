@@ -374,6 +374,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 三阶段提交（three-phase commit）
   - paxos
   - raft
+  - zab (ZooKeeper Atomic Broadcast)
 - 分布式缓存
   - MemCache
   - Redis
