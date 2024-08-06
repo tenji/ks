@@ -371,7 +371,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Quorum机制
   - 副本控制（primary-secondary）
   - [二阶段提交（two-phase commit）](https://github.com/tenji/ks/wiki/Two%E2%80%90Phase-Commit)
-  - 三阶段提交（three-phase commit）
+  - [三阶段提交（three-phase commit）](https://github.com/tenji/ks/wiki/Three%E2%80%90Phase-Commit)
   - paxos
   - raft
   - zab (ZooKeeper Atomic Broadcast)
