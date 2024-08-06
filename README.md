@@ -367,7 +367,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
 - [分布式数据复制](https://github.com/tenji/ks/wiki/Distributing-Data-Replication)
 - [关于脑裂](https://github.com/tenji/ks/wiki/%E5%85%B3%E4%BA%8E%E8%84%91%E8%A3%82%EF%BC%88Split-Brain%EF%BC%89)
 - 协议
-  - Lease机制
+  - [Lease机制](https://github.com/tenji/ks/wiki/Lease)
   - Quorum机制
   - 副本控制（primary-secondary）
   - [二阶段提交（two-phase commit）](https://github.com/tenji/ks/wiki/Two%E2%80%90Phase-Commit)
