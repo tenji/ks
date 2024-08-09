@@ -56,7 +56,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - [跳表](https://github.com/tenji/ks/wiki/Skip-List)
   - [图](https://github.com/tenji/ks/wiki/Graph-Theory)
     - 网格类问题
-    - 有向无环图（DAG）& 拓扑排序（Topological Sort）
+    - [有向无环图（DAG）& 拓扑排序（Topological Sort）](https://github.com/tenji/ks/wiki/DAG-vs-Topological-Sort)
   - [Trie 树（字典树、前缀树）](https://github.com/tenji/ks/wiki/Trie)
 - 基本算法
   - 递归
