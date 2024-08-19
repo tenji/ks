@@ -420,6 +420,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Plugin
 - 分布式日志收集
   - Logstash
+- CDC (Change Data Capture)
+  - Debezium
 ### Message Queue（消息队列）
 - [MQTT](https://github.com/tenji/ks/wiki/MQTT)
 ### 高可用（HA & MHA & HS）
