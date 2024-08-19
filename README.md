@@ -422,6 +422,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Logstash
 - CDC (Change Data Capture)
   - Debezium
+  - Maxwell
 ### Message Queue（消息队列）
 - [MQTT](https://github.com/tenji/ks/wiki/MQTT)
 ### 高可用（HA & MHA & HS）
