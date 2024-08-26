@@ -55,6 +55,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - [AVL 树](https://github.com/tenji/ks/wiki/AVL-Tree)
     - [红黑树](https://github.com/tenji/ks/wiki/Red%E2%80%93black-Tree)
   - 多叉树（Multi-way Trees）
+    - [B 树（B-Tree）](https://github.com/tenji/ks/wiki/B%E2%80%90Tree)
+    - B+ 树（B+ Tree）
   - 堆
   - [跳表](https://github.com/tenji/ks/wiki/Skip-List)
   - [图](https://github.com/tenji/ks/wiki/Graph-Theory)
