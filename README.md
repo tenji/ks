@@ -2,7 +2,7 @@
 ### 设计模式（Design Pattern）
 - Creational Patterns
   - 工厂模式（Factory Method Pattern）
-  - [单例模式（Singleton Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---Singleton)
+  - [单例模式（Singleton Pattern）](https://github.com/tenji/ks/wiki/Singleton-Design-Pattern)
   - 建造者模式（Builder Pattern）
 - Structual Patterns
   - 代理模式（Proxy Pattern）
