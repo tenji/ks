@@ -14,7 +14,8 @@
   - [模板方法模式（Template Method Pattern）](https://github.com/tenji/ks/wiki/Template-Method-Design-Pattern)
   - 策略模式（Strategy Pattern）
   - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---State)
-- SOLID (SRP, OCP, LSP, ISP, DIP)
+- [SOLID (SRP, OCP, LSP, ISP, DIP)](https://github.com/tenji/ks/wiki/SOLID-Principles)
+### 系统设计（System Design）
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
 - [Shell编程（Shell Programming）](https://github.com/tenji/ks/wiki/Unix-Shell-Programming)
