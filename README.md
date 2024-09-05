@@ -15,7 +15,7 @@
   - 策略模式（Strategy Pattern）
   - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---State)
 - [SOLID (SRP, OCP, LSP, ISP, DIP)](https://github.com/tenji/ks/wiki/SOLID-Principles)
-  - DIP vs IoC vs DI
+  - [DIP vs IoC vs DI](https://github.com/tenji/ks/wiki/SOLID-Principles#53-dip-vs-ioc-vs-di)
 ### 系统设计（System Design）
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
