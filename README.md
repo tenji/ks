@@ -12,8 +12,8 @@
   - 观察者模式（Observer Pattern）
   - 责任链模式（Chain of Responsibility Pattern）
   - [模板方法模式（Template Method Pattern）](https://github.com/tenji/ks/wiki/Template-Method-Design-Pattern)
-  - 策略模式（Strategy Pattern）
-  - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/Design-Pattern---State)
+  - [策略模式（Strategy Pattern）](https://github.com/tenji/ks/wiki/Strategy-Design-Pattern)
+  - [状态机模式（State Pattern）](https://github.com/tenji/ks/wiki/State-Design-Pattern)
 - [SOLID (SRP, OCP, LSP, ISP, DIP)](https://github.com/tenji/ks/wiki/SOLID-Principles)
   - [DIP vs IoC vs DI](https://github.com/tenji/ks/wiki/SOLID-Principles#53-dip-vs-ioc-vs-di)
 ### 系统设计（System Design）
