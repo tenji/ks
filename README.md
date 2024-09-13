@@ -17,6 +17,7 @@
 - [SOLID (SRP, OCP, LSP, ISP, DIP)](https://github.com/tenji/ks/wiki/SOLID-Principles)
   - [DIP vs IoC vs DI](https://github.com/tenji/ks/wiki/SOLID-Principles#53-dip-vs-ioc-vs-di)
 - 反应器模式（Reactor Pattern）
+- Spring 中的设计模式
 ### 系统设计（System Design）
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
