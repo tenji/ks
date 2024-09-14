@@ -334,7 +334,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - Beta
   - Release Candidate (RC)
   - Release
-### 网络通讯&网络编程（Network Programming）
+### 网络通讯 & 网络编程（Network Programming）
 - 网络模型
   - OSI参考模型
     - 物理层
@@ -362,7 +362,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
       - Buffer
       - Channel
       - Selector
-      - SelectionKey
+        - SelectionKey
+      - BIO vs NIO
     - AIO
   - IO Framework
     - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
