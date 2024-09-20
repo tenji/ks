@@ -369,7 +369,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
         - [Selector](https://github.com/tenji/ks/wiki/Java-NIO-Selector)
           - SelectionKey
         - BIO vs NIO
-    - Asynchronous I/O (AIO)
+    - AIO (Asynchronous I/O)
   - IO Framework
     - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
        - ByteBuf
