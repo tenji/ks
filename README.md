@@ -361,14 +361,15 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - SSL握手协议层（SSL HandShake Protocol Layer）
 - [IO](https://github.com/tenji/ks/wiki/JAVA-IO)
   - JAVA原生IO
-    - BIO
-    - [NIO](https://github.com/tenji/ks/wiki/Java-NIO)
-      - Buffer
-      - Channel
-      - Selector
-        - SelectionKey
-      - BIO vs NIO
-    - AIO
+    - Synchronous I/O
+      - BIO
+      - [NIO](https://github.com/tenji/ks/wiki/Java-NIO)
+        - Buffer
+        - Channel
+        - [Selector](https://github.com/tenji/ks/wiki/Java-NIO-Selector)
+          - SelectionKey
+        - BIO vs NIO
+    - Asynchronous I/O (AIO)
   - IO Framework
     - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
        - ByteBuf
