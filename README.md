@@ -367,8 +367,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
         - Buffer
         - Channel
         - [Selector](https://github.com/tenji/ks/wiki/Java-NIO-Selector)
-          - SelectionKey
-        - BIO vs NIO
+          - [SelectionKey](https://github.com/tenji/ks/wiki/Java-NIO-Selector#%E5%9B%9Bselectionkey)
+        - [BIO vs NIO](https://github.com/tenji/ks/wiki/Java-NIO#%E4%BA%8Cnio-vs-bio)
     - AIO (Asynchronous I/O)
   - IO Framework
     - [Netty](https://github.com/tenji/ks/wiki/Netty-Structure)
