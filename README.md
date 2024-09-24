@@ -15,13 +15,13 @@
   - [策略模式（Strategy Pattern）](https://github.com/tenji/ks/wiki/Strategy-Design-Pattern)
   - [状态模式（State Pattern）](https://github.com/tenji/ks/wiki/State-Design-Pattern)
 - [SOLID (SRP, OCP, LSP, ISP, DIP)](https://github.com/tenji/ks/wiki/SOLID-Principles)
-  - [DIP vs IoC vs DI](https://github.com/tenji/ks/wiki/SOLID-Principles#53-dip-vs-ioc-vs-di)
+  - [DIP vs IoC vs DI](https://github.com/tenji/ks/wiki/SOLID-Principles#63-dip-vs-ioc-vs-di)
 - [反应器模式（Reactor Pattern）](https://github.com/tenji/ks/wiki/Reactor-Pattern)
   - [Reactor vs Proactor](https://github.com/tenji/ks/wiki/Reactor-Pattern#%E5%85%ADreactor-vs-proactor)
   - [Thread-Based vs Event-Driven](https://github.com/tenji/ks/wiki/Reactor-Pattern#%E4%BA%94thread-based-vs-event-driven)
   - 论文：[Scalable IO in Java](https://gee.cs.oswego.edu/dl/cpjslides/nio.pdf)
   - 论文：[reactor-siemens](https://www.dre.vanderbilt.edu/~schmidt/PDF/reactor-siemens.pdf) 
-- Spring 中的设计模式
+- [Spring 中的设计模式](https://github.com/tenji/ks/wiki/Design-Pattrns-in-Spring-Framework)
 ### 系统设计（System Design）
 ### Linux
 - [常用命令](https://github.com/tenji/ks/wiki/Linux-Cheat-Sheet)
