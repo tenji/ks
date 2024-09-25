@@ -5,8 +5,8 @@
   - [单例模式（Singleton Pattern）](https://github.com/tenji/ks/wiki/Singleton-Design-Pattern)
   - 建造者模式（Builder Pattern）
 - Structual Patterns
-  - 代理模式（Proxy Pattern）
-  - 装饰者模式（Decorator Pattern）
+  - [代理模式（Proxy Pattern）](https://github.com/tenji/ks/wiki/Proxy-Design-Pattern)
+  - [装饰者模式（Decorator Pattern）](https://github.com/tenji/ks/wiki/Decorator-Design-Pattern)
   - 适配器模式（Adapter Pattern）
 - Behavioral Patterns
   - [观察者模式（Observer Pattern）](https://github.com/tenji/ks/wiki/Observer-Design-Pattern)
