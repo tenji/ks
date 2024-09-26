@@ -102,7 +102,7 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
   - 框架
     - Spring
       - Spring MVC
-      - Spring Boot
+      - [Spring Boot](https://github.com/tenji/ks/wiki/Spring-Boot)
 - JAVASE
   - 动态代理（Dynamic Proxy）
   - [嵌套类（Nested Class）](https://github.com/tenji/ks/wiki/JAVA-Inner-Classes)
