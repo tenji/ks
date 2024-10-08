@@ -430,6 +430,8 @@ RESTful是一种规范和原则，并不是一种实现方式，它更关注的�
     - Producer
     - [源码解析](https://github.com/tenji/ks/wiki/Kafka-Source-Code-Analysis)
     - [幂等性和事务性](https://github.com/tenji/ks/wiki/Kafka-idempotency-and-transactionality)
+    - Bugs
+      - [(KAFKA-8154) Buffer Overflow exceptions between brokers and with clients](https://issues.apache.org/jira/browse/KAFKA-8154)
   - Flume
     - Source
     - Sink
